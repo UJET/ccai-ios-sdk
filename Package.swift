@@ -29,38 +29,38 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "CCAIKit",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAIKit.xcframework.zip",
-      checksum: "4fb86d2550bf26732dea647f6b9012b1d91cd8a086515c501ac28edf2f67ce40"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAIKit.xcframework.zip",
+      checksum: "9b1ae38a4037f2b8cc8b50ca8a80a051e936be8e4acc41f6cb3309a986dac772"
     ),
 
     .binaryTarget(
       name: "CCAIChat",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAIChat.xcframework.zip",
-      checksum: "7a662fd1972980cc740aeb26334ff7318355a7fb685ab11327f48f9b0e33851e"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAIChat.xcframework.zip",
+      checksum: "86f7cc48a184e60952e1e0f47aeda9f53321fa351a1638494903292b293038ae"
     ),
 
     .binaryTarget(
       name: "CCAIChatRed",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAIChatRed.xcframework.zip",
-      checksum: "8742997b2f64f800936f8c6aa6f5c16fe424ffa0e6ec353bd5a4b64e46adb0ca"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAIChatRed.xcframework.zip",
+      checksum: "6f170d5a36c36800e0f9d97a8dee5923ce81e3f147cc8782b27d6ae500140560"
     ),
 
     .binaryTarget(
       name: "CCAICall",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAICall.xcframework.zip",
-      checksum: "ada652a8eb6a294cfe2da7674f67add443f03b989ef47cd68a93da3ce7491135"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAICall.xcframework.zip",
+      checksum: "ad406b8d484e828b6d5f03110c6cea0aafeef1b8092de359739c4f797e09a0df"
     ),
 
     .binaryTarget(
       name: "CCAICallRed",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAICallRed.xcframework.zip",
-      checksum: "89d1f142e99a0a0ddaa84b62c9a2c72d0fd44171bfe51dea5c98b07dd574fd7e"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAICallRed.xcframework.zip",
+      checksum: "c0b958fc206fab88fbaeed78d4a07a1ec59a0fbd05ed305c1f0ddd7661ec33b8"
     ),
 
     .binaryTarget(
       name: "CCAIScreenShare",
-      url: "https://sdk.ujet.co/ccaip/ios/3.3.2/CCAIScreenShare.xcframework.zip",
-      checksum: "30b8b09e73ed21d923d9a6ec16d66b28dccffb70669c8b905415b5acd36881fc"
+      url: "https://sdk.ujet.co/ccaip/ios-staging/3.3.3/CCAIScreenShare.xcframework.zip",
+      checksum: "1abefb5306b1613d3ee4d7ac001796eb48cca13f0ff576009c4542f6e7f0f323"
     ),
 
     .target(
