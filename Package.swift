@@ -30,37 +30,37 @@ let package = Package(
     .binaryTarget(
       name: "CCAIKit",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAIKit.xcframework.zip",
-      checksum: "37535e44b3036ee87aba7cef4aca8c2ffd4949fe9e6d05a24908ad665079b4cb"
+      checksum: "f60df46e9b1bc1fbea72091382d98c8fde68c95a317a4fa9f69f71b834e97417"
     ),
 
     .binaryTarget(
       name: "CCAIChat",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAIChat.xcframework.zip",
-      checksum: "cc4e324f958b5eded908ccbf9df8d250cf24469ad6d618f465a38b06e1a69d35"
+      checksum: "990a9e77ef547b5cf7b6e4ffe672f1f0d8f57fdc9baf0927db6e54a3b9d976a0"
     ),
 
     .binaryTarget(
       name: "CCAIChatRed",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAIChatRed.xcframework.zip",
-      checksum: "aeea8155215b8e63cb57e7b5b8c2b22dfbf890164dabe38985865019cf787d0b"
+      checksum: "486994bd9a15f032844b2f2530c83c1a8abd1680313a7117da671248b2cf50cf"
     ),
 
     .binaryTarget(
       name: "CCAICall",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAICall.xcframework.zip",
-      checksum: "ae96ca7184020fa90d5ca4c7456eda34a1aa321cfc6b7fffebb890e9c5f043d4"
+      checksum: "58dc341be80dd27c010c437b9f81c762aa80e3e7935dc5e1eef8dce271648d6f"
     ),
 
     .binaryTarget(
       name: "CCAICallRed",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAICallRed.xcframework.zip",
-      checksum: "6851887b4e9dbcc86f62068dea6cde97984547f9852fb6b906b732d2e0cbde36"
+      checksum: "09d932b106d7116aea2434c785cdaf57945eeff48538b06f7edc8eccfb4f0ad2"
     ),
 
     .binaryTarget(
       name: "CCAIScreenShare",
       url: "https://sdk.ujet.co/ccaip/ios-staging/3.4.0/CCAIScreenShare.xcframework.zip",
-      checksum: "8135d52e80d8f18d74d4bdfee361f7f9e48de018c41126054ca48900c47d956d"
+      checksum: "810e3e78b3d4954aad32a7a614a6bff0920cedc30980bd93141b675902f23ffc"
     ),
 
     .target(
